@@ -2743,7 +2743,7 @@
 		MasterNodeId = "91490c52-1f61-46c3-a580-16338d178661"
 		DistanceThreshold = 80.0
 	}
-	MapAnnotationNode84 = 
+}	MapAnnotationNode84 = 
 	{
 		Enabled = true
 		Type = "grenade"
